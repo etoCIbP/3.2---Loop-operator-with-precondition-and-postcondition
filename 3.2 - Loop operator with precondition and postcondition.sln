@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 - Loop operator with precondition and postcondition", "3.2 - Loop operator with precondition and postcondition\3.2 - Loop operator with precondition and postcondition.csproj", "{09C1DB07-74E2-4C8E-AD4F-EF1B137778AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C1DB07-74E2-4C8E-AD4F-EF1B137778AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C1DB07-74E2-4C8E-AD4F-EF1B137778AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C1DB07-74E2-4C8E-AD4F-EF1B137778AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C1DB07-74E2-4C8E-AD4F-EF1B137778AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C439B5-7273-4523-B6D4-1E9E2ECACB93}
+	EndGlobalSection
+EndGlobal
